@@ -16,8 +16,8 @@ Description: Creating multi-tier applications means building multiple API endpoi
 
 <br>
 
-<img src="screesnhot-delete-restaurant.png">
+<img src="screenshot-delete-restaurant.png">
 
 <br>
 
-<img src="screenshot-update-restaurant">
+<img src="screenshot-update-restaurant.png">
